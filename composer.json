@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ifsnop/mysqldump-php": "^2.10",
+        "firebase/php-jwt": "^6.4"
+    }
+}
